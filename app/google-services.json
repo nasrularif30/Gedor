@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "954668885541",
+    "firebase_url": "https://smart-home-iot-f9f0f-default-rtdb.firebaseio.com",
+    "project_id": "smart-home-iot-f9f0f",
+    "storage_bucket": "smart-home-iot-f9f0f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:954668885541:android:71445eebe5a8c2693681cc",
+        "android_client_info": {
+          "package_name": "com.movtech.gedor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "954668885541-8ovneavgcekj2o0rf77e2ounftbek94r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.movtech.gedor",
+            "certificate_hash": "b9a6eae8c9e1532b4b97768664029670eec29b3d"
+          }
+        },
+        {
+          "client_id": "954668885541-e81de10pi3rgrgn5milt66kpc9eu5mvi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEYhbTCraJCYi8YAxX30l5oUnzkslmtA0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "954668885541-e81de10pi3rgrgn5milt66kpc9eu5mvi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
